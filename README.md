@@ -1,4 +1,4 @@
-# ccIPD-Arena-Tracker
+# FleetTrack1ng99
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
 
 # Simple ccIPD Arena Tracker
@@ -8,8 +8,8 @@
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
 
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKazadius%2FFleetTrack1ng99&template=https%3A%2F%2Fgithub.com%2FKazadius%2FFleetTrack1ng99) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKazadius%2FFleetTrack1ng99&template=https%3A%2F%2Fgithub.com%2FKazadius%2FFleetTrack1ng99)
 
 ## Configuration
 
